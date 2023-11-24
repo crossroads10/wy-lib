@@ -211,13 +211,10 @@
      >
      > <font color=Red>代码</font>
      >
-     > ```html
-     > <audio src="" controls></audio>		
-     > ```
      >
-     > 
+     > 		
      >
-     > <audio src="" controls></audio>		
+     >
      >
      > <font color=Red>常见属性</font>
      >
@@ -240,13 +237,9 @@
      >
      > <font color=Red>代码:</font>
      >
-     > ```html
-     > <video src="" controls></video>
-     > ```
      >
      > 
      >
-     > <video src="./video.mp4" controls></video>
      >
      > <font color=Red>常见属性:</font>
      >
